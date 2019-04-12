@@ -1,11 +1,11 @@
 self.__precacheManifest = [
   {
-    "revision": "990f8c6be7d865a2391a",
-    "url": "/react_practice-movie-/static/css/main.95ac0dd8.chunk.css"
+    "revision": "c7167781c890af7381e6",
+    "url": "/react_practice-movie-/static/css/main.943f19b8.chunk.css"
   },
   {
-    "revision": "990f8c6be7d865a2391a",
-    "url": "/react_practice-movie-/static/js/main.3c214918.chunk.js"
+    "revision": "c7167781c890af7381e6",
+    "url": "/react_practice-movie-/static/js/main.11b4f5b7.chunk.js"
   },
   {
     "revision": "05c123e815a01a139d27",
@@ -16,7 +16,7 @@ self.__precacheManifest = [
     "url": "/react_practice-movie-/static/js/2.9dee5afb.chunk.js"
   },
   {
-    "revision": "c5f14a8ce8acbbae71b57f380854a57b",
+    "revision": "77f30c46d425609af507079eb87d3aa7",
     "url": "/react_practice-movie-/index.html"
   }
 ];
